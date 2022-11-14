@@ -6,6 +6,8 @@ A cada inserção o foco é mudado para o próximo input. O mesmo para a tecla "
 
 O comando ctrl+v com o conteudo maior igual ao tamanho do OTP é colado em todos inputs. 
 
+![Alt text](https://github.com/leonardosprado/otp-input-frond-end/blob/master/src/assets/screenshot.png?raw=true "Screenshot Projeto")
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
